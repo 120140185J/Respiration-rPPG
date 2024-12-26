@@ -1,10 +1,14 @@
 # Respiration-rPPG
 
-Nama : Justin Halim
+Nama: Justin Halim
 
-NIM : 120140185
+NIM: 120140185
 
-ID GitHub : 120140185J (jhalim17)
+ID GitHub: 120140185J (jhalim17)
+
+Proyek ini adalah tugas mata kuliah IF3024 Prodi Teknik Informatika ITERA
+
+Dosen Pengampu: Martin Clinton Tosima Manullang, S.T., M.T.
 
 Deskrispi Proyek:
 
