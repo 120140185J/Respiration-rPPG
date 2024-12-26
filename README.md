@@ -13,7 +13,7 @@ Proyek Python **Respiration-rPPG** ini adalah aplikasi real-time yang memanfaatk
 Run Code:
 
 1. Pastikan untuk memiliki Python version 1.10 keatas di PC anda
-2. Install Libraries yang diperlukan
+2. Install Libraries yang diperlukan dengan execute pada terminal: `pip install -U -r requirements.txt`.
 3. Buka file Respiration-rPPG.py
 4. Run file Respiration-rPPG.py
 5. Program akan berjalan secara otomatis
